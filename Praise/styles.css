@@ -1,0 +1,41 @@
+body {
+    background-color: black; 
+    height: 100%;
+}
+
+.container {
+    background-color: black;
+}
+
+label {
+    display: block;
+    margin: 0.5rem 0;
+}
+
+input{
+    border-radius: 5px;
+    display: center;
+}
+
+h2{
+    color: black;
+}
+
+h3{
+    background-color: darkslategray;
+    color: black;
+    width: 300px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+fieldset{
+    background-color: white;
+    border-radius: 50px;
+    width: 80%;
+    height: 90%;
+}
+
+.for{
+    margin-left: auto;
+}

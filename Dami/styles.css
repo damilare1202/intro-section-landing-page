@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+    text-align: center;
+}
+
+.first{
+    color: blue;
+    font-size: 100px;
+}
+
+.second{
+    color: red;
+    font-size: 100px;
+}
+
+.third{
+    color: yellow;
+    font-size: 100px;
+}
+
+.fourth{
+    color: blue;
+    font-size: 100px;
+}
+
+.fifth{
+    color: green;
+    font-size: 100px;
+}
+
+.sixth{
+    color: red;
+    font-size: 100px;
+}
+
+button{
+    border-radius: 600px;
+    background-color: darkgreen;
+}

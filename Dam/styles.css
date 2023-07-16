@@ -1,0 +1,21 @@
+body{
+    background-color: darkblue;
+    text-align: center;
+    font-size: 50%;
+}
+
+.first{
+    background-color: orange;
+}
+
+.second{
+    background-color: red; 
+}
+
+.third{
+   background-color: purple;
+}
+a {
+  color: red;  
+  font-size: 45%;
+}
